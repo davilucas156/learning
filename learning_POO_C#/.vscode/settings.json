@@ -1,0 +1,17 @@
+{
+    "editor.autocompletion": "off",
+    "editor.suggestOnTriggerCharacters": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "csharp": false
+    },
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot.chat.enabled": false,
+    "[csharp]": {
+        "editor.autocompletion": "off",
+        "editor.suggestOnTriggerCharacters": false,
+        "editor.inlineSuggest.enabled": false
+    }
+}
